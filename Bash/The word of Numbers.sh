@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem
+
 # Method-1 (using expr) - using expr, we have to use space with each operand
 read x
 read y
